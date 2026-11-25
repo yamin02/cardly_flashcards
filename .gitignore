@@ -1,0 +1,23 @@
+# Original study imports and design reference (kept locally)
+*.apkg
+*.colpkg
+100 Concepts of Anatomy __ Dorian_*
+step1_immunology_flashcards.csv
+index_orig.html
+README.txt
+
+# Local tools, editor settings, and temporary files
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite-journal
+*.log
+.env
+.env.*
+!.env.example
