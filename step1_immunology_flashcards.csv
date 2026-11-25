@@ -1,0 +1,441 @@
+﻿Front,Back,Tags,PDF pages
+"[MHC] Which cells express MHC I, and which T cells recognize it?","Answer: Nearly all nucleated cells express MHC I; CD8+ cytotoxic T cells recognize peptide-MHC I complexes.
+
+Why it matters: Because MHC I is present on nearly every nucleated cell, it lets CD8 cells inspect cells for intracellular infection or malignant change. Mature red blood cells lack a nucleus and do not express MHC I.
+
+PDF page(s): 3-5, 9-10",MHC,"3-5, 9-10"
+"[MHC] Which cells express MHC II, and which T cells recognize it?","Answer: Professional APCs (dendritic cells, macrophages, B cells) express MHC II; CD4+ helper T cells recognize peptide-MHC II complexes.
+
+Why it matters: These professional APCs take up extracellular material and present it to helper T cells. CD4 binds MHC II and helps stabilize the interaction while the TCR recognizes the specific peptide.
+
+PDF page(s): 3, 5, 10",MHC,"3, 5, 10"
+[MHC] What antigen source is usually presented on MHC I versus MHC II?,"Answer: MHC I presents endogenous/intracellular peptides (e.g., viral proteins); MHC II presents exogenous peptides taken up into endosomes.
+
+Why it matters: Endogenous proteins enter the cytosolic processing pathway; exogenous proteins are engulfed and processed in vesicles. This distinction predicts which T-cell arm responds: CD8 for MHC I, CD4 for MHC II.
+
+PDF page(s): 3, 27-28",MHC,"3, 27-28"
+[MHC] What is the key processing route for MHC I peptides?,"Answer: Cytosolic proteins are degraded by the proteasome; peptides enter the ER via TAP and load onto MHC I associated with beta-2-microglobulin.
+
+Why it matters: TAP transports cytosolic peptides into the endoplasmic reticulum. There they associate with MHC I and beta-2-microglobulin before the complex moves to the surface.
+
+PDF page(s): 3, 27-28",MHC,"3, 27-28"
+[MHC] How are peptides loaded onto MHC II?,"Answer: MHC II travels with invariant chain; after its cleavage in an acidified endosome, exogenous peptides load onto MHC II.
+
+Why it matters: Invariant chain prevents premature peptide binding in the ER and directs MHC II toward endosomal compartments. Acidic processing removes the chain so peptides from engulfed antigens can load.
+
+PDF page(s): 3, 27-28",MHC,"3, 27-28"
+[Tcells] What are the two signals for naive T-cell activation?,"Answer: Signal 1: TCR plus CD4 or CD8 binds peptide-MHC. Signal 2: B7 (CD80/CD86) on the APC binds CD28 on the T cell.
+
+Why it matters: Signal 1 provides antigen specificity; signal 2 confirms that an APC is activating the naive T cell. Without costimulation, antigen recognition alone may cause anergy rather than full activation.
+
+PDF page(s): 5, 17-18",Tcells,"5, 17-18"
+[Tcells] What is the main effector function of CD8+ cytotoxic T cells?,"Answer: They kill infected or malignant cells displaying antigen on MHC I, using perforin and granzymes to induce apoptosis.
+
+Why it matters: Perforin helps deliver granzymes into the target cell, activating apoptosis. This is a cell-mediated mechanism and does not require antibody.
+
+PDF page(s): 4-5, 10",Tcells,"4-5, 10"
+[Tcells] What is the key function of Th1 cells?,"Answer: Th1 cells secrete IFN-gamma to activate macrophages and support cell-mediated immunity against intracellular pathogens.
+
+Why it matters: IFN-gamma activates macrophages to kill ingested microbes and can promote granuloma formation. Th1 responses are especially useful when pathogens survive inside host cells.
+
+PDF page(s): 6-8, 10",Tcells,"6-8, 10"
+[Tcells] What is the key function of Th2 cells?,"Answer: Th2 cells help activate B cells and promote antibody production; CD40L-CD40 interaction supports B-cell activation and class switching.
+
+Why it matters: Th2 cells provide help to B cells through cytokines and CD40L binding CD40. This promotes plasma-cell differentiation, antibody production, and class switching.
+
+PDF page(s): 6-8, 10",Tcells,"6-8, 10"
+[Tcells] What does Th17 chiefly promote?,"Answer: Neutrophil production and recruitment.
+
+Why it matters: IL-17 from Th17 cells promotes inflammatory signals that recruit neutrophils. This makes Th17 important for defense against many extracellular bacteria and fungi.
+
+PDF page(s): 6, 17",Tcells,"6, 17"
+[Tcells] What is the role of regulatory T cells?,"Answer: They suppress immune responses and help maintain self-tolerance; CD25 is a common Treg marker.
+
+Why it matters: Tregs restrain excessive immune activation and help prevent responses against self. Loss of regulatory function can contribute to autoimmunity.
+
+PDF page(s): 6, 17",Tcells,"6, 17"
+[Tcells] What cytokine loop links Th1 cells and macrophages?,"Answer: Macrophage IL-12 promotes Th1 differentiation and IFN-gamma secretion; IFN-gamma activates macrophages, which produce more IL-12.
+
+Why it matters: This reciprocal signaling amplifies cell-mediated defense: IL-12 pushes Th0 cells toward Th1, and Th1-derived IFN-gamma activates macrophages to make more IL-12.
+
+PDF page(s): 7-8, 17",Tcells Cytokines,"7-8, 17"
+[Tcells] What cytokines favor Th2 differentiation?,"Answer: IL-4 and IL-10 favor Th2 differentiation; Th2 supports B-cell activation and humoral immunity.
+
+Why it matters: IL-4 and IL-10 bias helper differentiation toward Th2 and away from Th1. Th2 support is associated with B-cell antibody responses, including IgE-related allergic and parasite responses.
+
+PDF page(s): 7-8, 16-17",Tcells Cytokines,"7-8, 16-17"
+[Tcells] What are positive and negative selection in the thymus?,"Answer: Positive selection in the cortex preserves T cells able to recognize self-MHC. Negative selection in the medulla removes strongly self-reactive T cells.
+
+Why it matters: Positive selection tests whether the developing T cell can recognize self-MHC; negative selection removes cells that react too strongly to self-antigens. The sequence establishes MHC restriction while reducing autoimmunity.
+
+PDF page(s): 9-10",Tcells,9-10
+[Innate] How do NK cells detect some virus-infected or tumor cells?,"Answer: They can kill cells with reduced MHC I expression, a missing-self signal.
+
+Why it matters: Many infected or tumor cells reduce MHC I to evade CD8 recognition. NK cells detect this loss of inhibitory self-signaling and can kill the abnormal cell.
+
+PDF page(s): 3-4",Innate,3-4
+[Innate] How does CD16 enable NK-cell antibody-dependent cellular cytotoxicity?,"Answer: CD16 binds the Fc portion of IgG coating a target; NK-cell activation releases cytotoxic granules and induces apoptosis.
+
+Why it matters: CD16 is an Fc receptor. When it binds IgG already attached to a target, the NK cell is activated and kills the antibody-coated cell; this is ADCC.
+
+PDF page(s): 4, 17",Innate,"4, 17"
+[Antibodies] Which antibody is usually produced first in a primary immune response?,"Answer: IgM; its presence can indicate recent infection, depending on context.
+
+Why it matters: IgM is the first major antibody in a primary response and is usually too large to cross the placenta. A newborn's IgM is therefore evidence of the infant's own response rather than maternal IgG transfer.
+
+PDF page(s): 12-13",Antibodies,12-13
+[Antibodies] Which antibody is a pentamer and has the greatest avidity?,"Answer: IgM is generally secreted as a pentamer and has high avidity because it can bind multiple epitopes.
+
+Why it matters: Pentameric IgM has many antigen-binding sites, giving high avidity even if each individual binding interaction is not the tightest. It also efficiently activates the classical complement pathway.
+
+PDF page(s): 12",Antibodies,12
+[Antibodies] Which antibody is most abundant in serum and crosses the placenta?,"Answer: IgG. It mediates passive neonatal immunity and can cause Rh hemolytic disease of the newborn.
+
+Why it matters: IgG is the predominant serum antibody and the only immunoglobulin class that normally crosses the placenta in meaningful amounts. Maternal anti-Rh IgG can cross and hemolyze fetal RBCs.
+
+PDF page(s): 12, 22, 36",Antibodies,"12, 22, 36"
+[Antibodies] Which antibody predominates in mucosal secretions and breast milk?,"Answer: IgA, typically secreted as a dimer linked by a J chain.
+
+Why it matters: Secretory IgA protects mucosal surfaces in respiratory and gastrointestinal tracts and is transported into breast milk. It helps neutralize pathogens at entry sites.
+
+PDF page(s): 12-13",Antibodies,12-13
+"[Antibodies] Which antibody is associated with mast cells, immediate allergy, and helminths?","Answer: IgE binds Fc receptors on mast cells; allergen cross-linking triggers degranulation. IgE also supports eosinophil responses to helminths.
+
+Why it matters: Allergen cross-linking of IgE bound to mast-cell Fc receptors triggers histamine and other mediator release. IgE also helps recruit eosinophil-mediated responses against helminths.
+
+PDF page(s): 13, 24",Antibodies,"13, 24"
+[Antibodies] How does active immunity differ from passive immunity?,"Answer: Active immunity follows antigen exposure and creates memory, so develops more slowly but lasts longer. Passive immunity transfers preformed antibodies, acts quickly, and wanes.
+
+Why it matters: Vaccination or infection creates the host's own response and memory. Transferred antibody gives immediate protection but fades as the antibody is cleared and does not create memory in the recipient.
+
+PDF page(s): 13",Antibodies,13
+[Antibodies] What is affinity maturation?,"Answer: Germinal-center B cells undergo somatic hypermutation and selection, producing antibodies with increased affinity for antigen.
+
+Why it matters: Somatic hypermutation introduces immunoglobulin gene mutations in activated germinal-center B cells. Selection favors B cells whose antibodies bind antigen better, increasing affinity over time.
+
+PDF page(s): 4, 8",Antibodies,"4, 8"
+[Antibodies] How does V(D)J recombination differ from somatic hypermutation?,"Answer: V(D)J recombination creates receptor diversity during lymphocyte development; somatic hypermutation later diversifies immunoglobulin genes in activated B cells.
+
+Why it matters: V(D)J recombination occurs during B- and T-cell development to assemble receptor genes. Somatic hypermutation occurs later in activated B cells and affects antibody variable regions, not TCRs.
+
+PDF page(s): 8",Antibodies,8
+[Antibodies] What is the main defect in CD40L deficiency (hyper-IgM syndrome)?,"Answer: Impaired T-cell help to B cells causes defective class switching; IgM is normal or elevated while other isotypes are low.
+
+Why it matters: CD40L on an activated helper T cell binds CD40 on a B cell, normally enabling class-switch recombination. Without this help, B cells remain largely IgM-producing and are impaired in responses to many pathogens.
+
+PDF page(s): 12, 18, 27",Antibodies Immunodeficiency,"12, 18, 27"
+"[Complement] Which complement pathways are activated by antibody, microbial surfaces, and mannose-binding lectin?","Answer: Classical: antibody-bound antigen (IgM or IgG); alternative: microbial surfaces; lectin: mannose-binding lectin binding microbial carbohydrates.
+
+Why it matters: The classical pathway begins when C1 binds antibody-coated antigen; alternative activation occurs on microbial surfaces; lectin activation begins with mannose-binding lectin. All converge on complement activation.
+
+PDF page(s): 14",Complement,14
+"[Complement] What is the membrane attack complex, and which components form it?","Answer: MAC is the C5b-C9 complex that forms membrane pores and can lyse target cells.
+
+Why it matters: C5b initiates assembly of C6, C7, C8, and C9 into a pore. MAC is particularly important for lysis of susceptible gram-negative bacteria, including Neisseria.
+
+PDF page(s): 14-15",Complement,14-15
+[Complement] What are the two major opsonins?,"Answer: C3b and IgG; they coat targets and promote phagocytosis.
+
+Why it matters: Opsonins coat microbes so phagocytes can recognize and ingest them efficiently. IgG binds Fc receptors, while C3b is recognized by complement receptors.
+
+PDF page(s): 14",Complement,14
+[Complement] Which complement fragments are anaphylatoxins?,"Answer: C3a, C4a, and C5a. C5a is also a potent neutrophil chemoattractant.
+
+Why it matters: C3a, C4a, and C5a promote inflammation and mast-cell degranulation. C5a also recruits neutrophils, so it has an important chemotactic role beyond anaphylatoxin activity.
+
+PDF page(s): 14",Complement,14
+[Complement] What infection pattern suggests terminal complement (C5-C9) deficiency?,"Answer: Recurrent Neisseria infections, including meningococcal disease and disseminated gonococcal infection, due to impaired MAC formation.
+
+Why it matters: Loss of C5-C9 prevents effective MAC formation. Recurrent Neisseria is the characteristic clue; total hemolytic complement activity can be low.
+
+PDF page(s): 14, 27, 30",Complement Immunodeficiency,"14, 27, 30"
+[Complement] What is the complement defect in hereditary angioedema?,"Answer: C1 esterase inhibitor deficiency causes excess bradykinin-mediated angioedema.
+
+Why it matters: C1 inhibitor normally restrains contact-system and complement pathways. Deficiency increases bradykinin, causing episodic swelling without urticaria; airway involvement can be dangerous.
+
+PDF page(s): 15",Complement,15
+[Complement] Which RBC-protective proteins are lost in paroxysmal nocturnal hemoglobinuria?,"Answer: CD55 and CD59, which are GPI-anchored complement regulators; their loss permits complement-mediated RBC lysis.
+
+Why it matters: CD55 accelerates decay of complement convertases and CD59 blocks MAC formation. Their GPI-anchor deficiency allows complement to lyse RBCs, producing intravascular hemolysis and hemoglobinuria.
+
+PDF page(s): 15, 18",Complement,"15, 18"
+[Cytokines] Which cytokine is most associated with hypotension in septic shock?,"Answer: TNF-alpha, which increases vascular permeability and lowers systemic vascular resistance.
+
+Why it matters: TNF-alpha is a major mediator of distributive shock through vasodilation and increased vascular permeability. If asked for the cytokine causing fever specifically, IL-1 is the stronger association.
+
+PDF page(s): 16, 33, 38",Cytokines,"16, 33, 38"
+[Cytokines] Which cytokine is classically associated with fever during infection?,"Answer: IL-1. Antipyretic NSAIDs reduce prostaglandin synthesis downstream in the fever pathway.
+
+Why it matters: IL-1 acts through pathways that raise hypothalamic prostaglandin E2 and the temperature set point. NSAIDs lower fever by reducing prostaglandin synthesis rather than directly blocking IL-1.
+
+PDF page(s): 16, 38-39",Cytokines,"16, 38-39"
+[Cytokines] Which cytokine broadly stimulates T-cell proliferation?,"Answer: IL-2.
+
+Why it matters: IL-2 is produced by activated T cells and promotes T-cell growth and proliferation. Calcineurin inhibitors reduce IL-2 transcription, while sirolimus blocks downstream response to IL-2.
+
+PDF page(s): 16-17",Cytokines,16-17
+[Drugs] How do cyclosporine and tacrolimus reduce T-cell activation?,"Answer: They inhibit calcineurin, reducing IL-2 transcription. Cyclosporine binds cyclophilin; tacrolimus binds FKBP.
+
+Why it matters: Calcineurin normally promotes NFAT-mediated IL-2 transcription. Cyclosporine-cyclophilin and tacrolimus-FKBP complexes inhibit calcineurin; both suppress T-cell activation and can be nephrotoxic.
+
+PDF page(s): 16, 42-43",Drugs Cytokines,"16, 42-43"
+[Drugs] How does sirolimus affect IL-2 signaling?,"Answer: It inhibits mTOR and reduces T-cell responsiveness to IL-2 rather than blocking IL-2 transcription.
+
+Why it matters: Sirolimus forms a complex with FKBP that inhibits mTOR. Unlike tacrolimus, it does not inhibit calcineurin; it blocks the T cell's response to IL-2.
+
+PDF page(s): 16, 43",Drugs Cytokines,"16, 43"
+[Cytokines] Which cytokine is a major neutrophil chemoattractant?,"Answer: IL-8 (CXCL8). Other chemoattractants include C5a, LTB4, and bacterial products.
+
+Why it matters: IL-8 is a chemokine that draws neutrophils toward inflamed tissue. C5a, leukotriene B4, and bacterial products also guide neutrophil migration.
+
+PDF page(s): 16-17, 40",Cytokines,"16-17, 40"
+[Cytokines] Which cytokine promotes eosinophil maturation?,"Answer: IL-5.
+
+Why it matters: IL-5 supports eosinophil differentiation and activation. This is relevant to allergic disease and helminth defense, where eosinophils release toxic granule proteins.
+
+PDF page(s): 16",Cytokines,16
+[Cytokines] Which cytokine promotes hepatic acute-phase protein production?,"Answer: IL-6, which supports production of proteins such as CRP and hepcidin.
+
+Why it matters: IL-6 stimulates hepatocytes to produce acute-phase reactants such as CRP and hepcidin. It also participates in inflammatory T-cell differentiation pathways.
+
+PDF page(s): 16",Cytokines,16
+[Cytokines] What is the key effect of IFN-gamma?,"Answer: It activates macrophages and supports Th1 responses; it is important for granuloma formation and control of intracellular pathogens.
+
+Why it matters: IFN-gamma is the key macrophage-activating cytokine in Th1 immunity. If IL-12/IFN-gamma signaling is disrupted, control of intracellular pathogens and granuloma formation can be impaired.
+
+PDF page(s): 7, 17, 40-41",Cytokines,"7, 17, 40-41"
+[Immunodeficiency] What is the classic infection pattern in SCID?,"Answer: Early severe infections spanning viral, fungal, bacterial, and protozoal pathogens, with combined T- and B-cell dysfunction.
+
+Why it matters: Combined T- and B-cell dysfunction explains the broad pathogen range and severe early disease. A small thymus suggests T-cell deficiency; sparse tonsils or lymph nodes suggest poor B-cell development.
+
+PDF page(s): 25, 28, 32-34",Immunodeficiency,"25, 28, 32-34"
+[Immunodeficiency] What are common genetic causes of SCID?,"Answer: X-linked common gamma-chain/IL-2 receptor pathway defects and autosomal recessive ADA deficiency are classic causes.
+
+Why it matters: Common gamma-chain defects impair signaling through several cytokine receptors, including the IL-2 receptor pathway; ADA deficiency is another classic cause. Severe combined defects require specialist management and often stem-cell transplantation.
+
+PDF page(s): 25",Immunodeficiency,25
+[Immunodeficiency] What causes X-linked agammaglobulinemia (Bruton disease)?,"Answer: BTK mutation blocks B-cell maturation. Recurrent bacterial infections often begin after maternal IgG wanes, around 6 months.
+
+Why it matters: BTK is required for B-cell maturation, so circulating B cells and all immunoglobulin classes are low. The timing after maternal IgG wanes explains why infections often emerge after early infancy.
+
+PDF page(s): 25, 28, 32-33",Immunodeficiency,"25, 28, 32-33"
+[Immunodeficiency] What infection pattern is associated with selective IgA deficiency?,"Answer: Recurrent sinopulmonary and mucosal infections; Giardia and atopy are also associated. Other immunoglobulin classes may be preserved.
+
+Why it matters: IgA protects mucosal surfaces, so deficiency can cause respiratory infections and GI susceptibility such as Giardia. Atopy and autoimmune disease are also associated; isolated IgA deficiency leaves other classes relatively intact.
+
+PDF page(s): 12-13, 25, 28",Immunodeficiency,"12-13, 25, 28"
+[Immunodeficiency] Why can IgA deficiency cause a false-negative celiac serology?,"Answer: IgA-based tests such as tissue-transglutaminase IgA may be falsely negative; use an IgG-based test when IgA deficiency is present.
+
+Why it matters: If total IgA is absent, an IgA-based screening assay may not detect disease even when it is present. An IgG-based celiac assay is useful in that setting.
+
+PDF page(s): 12-13, 25",Immunodeficiency,"12-13, 25"
+[Immunodeficiency] What causes DiGeorge syndrome and its classic immunologic defect?,"Answer: 22q11 deletion with abnormal development of the 3rd and 4th pharyngeal pouches causes thymic hypoplasia and T-cell deficiency.
+
+Why it matters: Thymic hypoplasia reduces T-cell maturation. The embryologic pouch defect also affects parathyroid development, linking immune findings with hypocalcemia.
+
+PDF page(s): 25, 33-34",Immunodeficiency,"25, 33-34"
+[Immunodeficiency] What findings are associated with DiGeorge syndrome?,"Answer: Hypocalcemia from parathyroid hypoplasia, conotruncal cardiac defects, and an absent or small thymic shadow.
+
+Why it matters: Parathyroid hypoplasia can cause hypocalcemia and tetany; conotruncal defects such as tetralogy of Fallot can co-occur. These clues plus absent thymic shadow point to DiGeorge syndrome.
+
+PDF page(s): 25, 33-34",Immunodeficiency,"25, 33-34"
+"[Immunodeficiency] What causes chronic granulomatous disease, and which organisms are characteristic?","Answer: NADPH oxidase deficiency impairs respiratory-burst superoxide production, predisposing to catalase-positive organisms such as Staph aureus, Serratia, Aspergillus, and Candida.
+
+Why it matters: NADPH oxidase normally generates superoxide during the respiratory burst. Catalase-positive microbes destroy their own hydrogen peroxide, so they can survive when the patient's oxidative burst is defective.
+
+PDF page(s): 26, 35-36",Immunodeficiency,"26, 35-36"
+[Immunodeficiency] What test is used to diagnose chronic granulomatous disease?,"Answer: Dihydrorhodamine flow cytometry shows reduced oxidative burst.
+
+Why it matters: Dihydrorhodamine flow cytometry measures neutrophil oxidative burst; fluorescence is reduced in CGD. It is the preferred modern test over the older nitroblue tetrazolium assay.
+
+PDF page(s): 26, 36",Immunodeficiency,"26, 36"
+[Immunodeficiency] What is deficient in myeloperoxidase deficiency?,"Answer: Conversion of hydrogen peroxide to hypochlorous acid/bleach is impaired; Candida infections are a classic association.
+
+Why it matters: Myeloperoxidase uses hydrogen peroxide and chloride to form hypochlorous acid, a potent antimicrobial oxidant. Many patients are asymptomatic, but Candida infection is a classic association.
+
+PDF page(s): 26, 36",Immunodeficiency,"26, 36"
+[Immunodeficiency] What is the classic triad of Wiskott-Aldrich syndrome?,"Answer: Immunodeficiency, eczema, and thrombocytopenia; it is X-linked and involves defective WASp-mediated cytoskeletal signaling.
+
+Why it matters: WASp helps organize actin in hematopoietic cells. Defective signaling impairs immune-cell function and platelet production/size, producing the characteristic eczema-infection-thrombocytopenia triad.
+
+PDF page(s): 26-27, 37",Immunodeficiency,"26-27, 37"
+[Immunodeficiency] What causes leukocyte adhesion deficiency type 1?,"Answer: CD18 (beta-2 integrin) deficiency impairs firm adhesion and extravasation, causing recurrent infections, little/no pus, neutrophilia, and sometimes delayed umbilical-cord separation.
+
+Why it matters: LFA-1 integrin uses CD18 for firm leukocyte adhesion to endothelium. Failure to exit vessels causes neutrophilia in blood but few neutrophils and little pus at infected tissues.
+
+PDF page(s): 26, 28-29, 32",Immunodeficiency,"26, 28-29, 32"
+"[Innate] Which molecules mediate leukocyte rolling, firm adhesion, and diapedesis?","Answer: Rolling: selectins. Firm adhesion: integrins (e.g., LFA-1). Diapedesis: PECAM-1 (CD31).
+
+Why it matters: Selectins mediate rolling, integrins mediate firm adhesion, and PECAM-1 supports passage between endothelial cells. This sequence explains the stages of leukocyte extravasation.
+
+PDF page(s): 29",Innate Immunodeficiency,29
+[Immunodeficiency] What causes Chediak-Higashi syndrome?,"Answer: LYST-related lysosomal trafficking dysfunction impairs phagolysosome fusion; findings include recurrent infections, giant granules, partial albinism, and sometimes neuropathy.
+
+Why it matters: Defective lysosomal trafficking disrupts phagolysosome fusion and microbial killing. Abnormal melanosome transport causes partial albinism; giant granules in leukocytes are a key smear clue.
+
+PDF page(s): 26, 32, 34",Immunodeficiency,"26, 32, 34"
+[Immunodeficiency] What are hallmark findings of hyper-IgE (Job) syndrome?,"Answer: Elevated IgE, eczema, recurrent cold Staph abscesses, coarse facies, and retained primary teeth (FATED mnemonic).
+
+Why it matters: Job syndrome classically involves impaired Th17-related defense and recurrent staphylococcal skin/lung infections. 'Cold' abscesses, eczema, retained primary teeth, and elevated IgE are useful clues.
+
+PDF page(s): 13, 27, 37",Immunodeficiency,"13, 27, 37"
+[Immunodeficiency] What immunodeficiency is associated with recurrent mucocutaneous Candida and autoimmune disease?,"Answer: Chronic mucocutaneous candidiasis due to T-cell dysfunction and impaired cell-mediated immunity.
+
+Why it matters: Impaired T-cell-mediated defense permits recurrent Candida of skin and mucosa. Autoimmune endocrinopathies can coexist, so candidiasis plus type 1 diabetes or thyroiditis is a high-yield pattern.
+
+PDF page(s): 26, 28, 34, 37",Immunodeficiency,"26, 28, 34, 37"
+[Immunodeficiency] What pathway explains recurrent TB with IL-12 receptor deficiency?,"Answer: Reduced IL-12 signaling lowers Th1 IFN-gamma production and macrophage activation.
+
+Why it matters: IL-12 normally stimulates Th1 cells to produce IFN-gamma, which activates macrophages. Defects anywhere in this loop impair granuloma-based control of mycobacteria.
+
+PDF page(s): 17, 27, 40-41",Immunodeficiency Cytokines,"17, 27, 40-41"
+[Immunodeficiency] How does CVID differ from selective IgA deficiency?,"Answer: CVID involves impaired B-cell differentiation into plasma cells and low levels of multiple immunoglobulin classes; selective IgA deficiency chiefly lowers IgA.
+
+Why it matters: CVID generally causes low IgG plus low levels of other antibody classes due to poor antibody production despite B cells being present. Selective IgA deficiency is limited primarily to IgA.
+
+PDF page(s): 27",Immunodeficiency,27
+[Hypersensitivity] What is the mechanism of type I hypersensitivity?,"Answer: Immediate IgE-mediated mast-cell/basophil degranulation within minutes; a later eosinophil-rich phase can develop over hours.
+
+Why it matters: IgE-mediated mast-cell degranulation explains rapid urticaria, bronchospasm, or anaphylaxis. The late phase reflects recruited inflammatory cells, especially eosinophils.
+
+PDF page(s): 13, 24",Hypersensitivity,"13, 24"
+[Hypersensitivity] What is the mechanism of type II hypersensitivity?,"Answer: IgG or IgM binds cell-surface or matrix antigens, or alters receptor function; injury can involve complement, opsonization, or altered signaling.
+
+Why it matters: Type II antibodies bind fixed targets on cells or tissues. They may destroy cells, alter receptor activity, or trigger inflammation; examples include Graves, Goodpasture, and autoimmune hemolysis.
+
+PDF page(s): 24",Hypersensitivity,24
+[Hypersensitivity] What is the mechanism of type III hypersensitivity?,"Answer: Circulating antigen-antibody immune complexes deposit in tissues and activate inflammation/complement.
+
+Why it matters: In type III disease, soluble immune complexes deposit in vessel walls, glomeruli, or joints and activate complement. This differs from type II, where antibody binds a fixed tissue target.
+
+PDF page(s): 24, 42",Hypersensitivity,"24, 42"
+[Hypersensitivity] What is the mechanism of type IV hypersensitivity?,"Answer: T-cell-mediated delayed hypersensitivity; it does not require antibodies. Examples include contact dermatitis, PPD reaction, and graft-versus-host disease.
+
+Why it matters: Type IV reactions are driven by sensitized T cells and take time to develop. PPD induration and poison ivy dermatitis are classic examples; antibodies are not the primary mechanism.
+
+PDF page(s): 24, 39, 42",Hypersensitivity,"24, 39, 42"
+[Hypersensitivity] Which hypersensitivity mechanism causes post-streptococcal glomerulonephritis?,"Answer: Type III immune-complex deposition.
+
+Why it matters: PSGN follows streptococcal infection because deposited immune complexes activate complement in glomeruli. This is distinct from rheumatic fever, where antibodies cross-react with host tissue (type II).
+
+PDF page(s): 14, 22, 24",Hypersensitivity,"14, 22, 24"
+[Autoimmunity] What distinguishes bullous pemphigoid from pemphigus vulgaris?,"Answer: Bullous pemphigoid targets hemidesmosomes at the basement membrane (subepidermal blister, linear IF); pemphigus vulgaris targets desmogleins in desmosomes (intraepidermal blister, net-like IF, often positive Nikolsky sign).
+
+Why it matters: BP antibodies target hemidesmosomes, splitting below the epidermis; PV antibodies target desmosomes between keratinocytes, causing intraepidermal separation. The biopsy staining pattern reflects the target's location.
+
+PDF page(s): 18",Autoimmunity,18
+[Autoimmunity] Which antibodies and biopsy pattern are associated with Goodpasture syndrome?,"Answer: Anti-GBM antibodies against type IV collagen; renal biopsy shows linear immunofluorescence.
+
+Why it matters: Type IV collagen is present in basement membranes, so anti-GBM antibodies affect both glomerular and alveolar basement membranes. Linear staining follows the continuous distribution of the antigen.
+
+PDF page(s): 18-19",Autoimmunity,18-19
+[Autoimmunity] Which antibodies are associated with GPA versus EGPA?,"Answer: GPA: c-ANCA/anti-PR3. EGPA: p-ANCA/anti-MPO, often with asthma and eosinophilia.
+
+Why it matters: GPA commonly causes granulomatous inflammation of upper/lower airways and kidneys with PR3/c-ANCA. EGPA combines asthma and eosinophilia with MPO/p-ANCA association.
+
+PDF page(s): 19",Autoimmunity,19
+"[Autoimmunity] Which antibody is highly specific for SLE, and which tracks lupus nephritis activity?","Answer: Anti-Smith is highly specific; anti-dsDNA correlates with flares and renal disease activity. C3 can fall during active disease.
+
+Why it matters: Anti-dsDNA levels often rise with active lupus nephritis and can track disease activity. Anti-Smith is less sensitive but highly specific; complement can be consumed during active immune-complex disease.
+
+PDF page(s): 19",Autoimmunity,19
+[Autoimmunity] Which antibodies are associated with antiphospholipid syndrome?,"Answer: Anticardiolipin, anti-beta-2-glycoprotein I, and lupus anticoagulant; they are associated with thrombosis and recurrent pregnancy loss. Lupus anticoagulant prolongs in-vitro aPTT.
+
+Why it matters: These antibodies are associated with arterial/venous thrombosis and pregnancy morbidity despite a prolonged in-vitro clotting test. The lupus anticoagulant name is misleading: clinically it promotes clotting.
+
+PDF page(s): 18-19",Autoimmunity,18-19
+[Autoimmunity] What antibodies are associated with myasthenia gravis versus Lambert-Eaton syndrome?,"Answer: Myasthenia gravis: postsynaptic nicotinic ACh-receptor antibodies. Lambert-Eaton: presynaptic voltage-gated calcium-channel antibodies.
+
+Why it matters: MG antibodies impair postsynaptic neuromuscular transmission and weakness worsens with use. Lambert-Eaton antibodies reduce presynaptic ACh release, and strength may improve with repeated activity.
+
+PDF page(s): 20",Autoimmunity,20
+[Autoimmunity] Which antibodies are associated with limited versus diffuse systemic sclerosis?,"Answer: Limited/CREST: anti-centromere. Diffuse disease: anti-topoisomerase I (Scl-70).
+
+Why it matters: Limited systemic sclerosis is linked to anti-centromere and CREST features. Diffuse disease is linked to anti-Scl-70 and more extensive skin/organ involvement, including pulmonary fibrosis.
+
+PDF page(s): 20",Autoimmunity,20
+[Autoimmunity] Which antibodies are associated with Graves disease versus Hashimoto thyroiditis?,"Answer: Graves: TSH-receptor-stimulating antibodies (TSI). Hashimoto: anti-thyroid peroxidase and anti-thyroglobulin.
+
+Why it matters: TSI stimulates the TSH receptor and causes hyperthyroidism. Hashimoto antibodies accompany autoimmune thyroid destruction and hypothyroidism.
+
+PDF page(s): 20-21",Autoimmunity,20-21
+[Autoimmunity] What causes warm versus cold autoimmune hemolytic anemia?,"Answer: Warm AIHA: IgG. Cold agglutinin AIHA: IgM, often associated with Mycoplasma or viral infections such as EBV/CMV.
+
+Why it matters: Warm IgG binds RBCs at body temperature; cold IgM binds at cooler temperatures and may agglutinate RBCs. Both can cause a positive direct antiglobulin test.
+
+PDF page(s): 22, 39",Autoimmunity,"22, 39"
+[Antibodies] How does Rh hemolytic disease of the newborn occur?,"Answer: An Rh-negative mother sensitized to Rh-positive fetal RBCs can produce anti-D IgG; in a later pregnancy, IgG crosses the placenta and destroys fetal RBCs.
+
+Why it matters: Initial maternal exposure sensitizes an Rh-negative mother; anti-D IgG in a later pregnancy crosses the placenta. Rho(D) immune globulin prevents maternal sensitization when appropriately administered.
+
+PDF page(s): 12, 22, 36",Antibodies,"12, 22, 36"
+[Transfusion] What causes an acute ABO-incompatible transfusion reaction?,"Answer: Recipient antibodies bind donor RBC A/B antigens, activating complement and causing intravascular hemolysis; direct antiglobulin (Coombs) testing is typically positive.
+
+Why it matters: Preformed recipient anti-A or anti-B antibodies activate complement against donor RBCs, causing rapid intravascular hemolysis. Stop the transfusion immediately and evaluate with a direct antiglobulin test.
+
+PDF page(s): 23",Transfusion,23
+[Transfusion] What causes a febrile nonhemolytic transfusion reaction?,"Answer: Recipient antibodies react with donor leukocytes or leukocyte-derived cytokines, causing fever/chills without RBC hemolysis; leukoreduction lowers risk.
+
+Why it matters: Leukocyte antibodies or cytokines cause fever and chills, but donor RBCs are not being destroyed. This contrasts with acute ABO hemolysis; leukoreduced products reduce the reaction risk.
+
+PDF page(s): 22-23",Transfusion,22-23
+[Transfusion] How can you distinguish TRALI from TACO after transfusion?,"Answer: Both cause acute pulmonary edema. TRALI is noncardiogenic and usually begins within 6 hours; TACO is volume-overload/cardiogenic and is more likely with heart failure or later onset.
+
+Why it matters: TRALI results from neutrophil-mediated lung injury and is noncardiogenic; TACO reflects excess hydrostatic pressure from volume overload. Timing and heart-failure history help separate them.
+
+PDF page(s): 23",Transfusion,23
+[Hypersensitivity] What is the Arthus reaction?,"Answer: A localized type III immune-complex reaction at an exposure site, typically developing hours to days after exposure.
+
+Why it matters: Arthus reaction is a local immune-complex response after antigen exposure in a sensitized person. Local vasculitis and tissue inflammation develop over hours, rather than the immediate timing of type I allergy.
+
+PDF page(s): 24, 42",Hypersensitivity,"24, 42"
+[Vaccines] Why are polysaccharide vaccines often conjugated to protein?,"Answer: Pure polysaccharides elicit a largely T-cell-independent B-cell response with limited memory; protein conjugation enables MHC II presentation and T-cell help, improving class switching and memory.
+
+Why it matters: Polysaccharides alone are T-independent antigens and generate weaker memory, especially in young children. A protein carrier can be presented on MHC II to recruit helper T cells and improve durable antibody responses.
+
+PDF page(s): 15-16, 41",Vaccines,"15-16, 41"
+[Vaccines] What is the difference between a toxoid vaccine and a conjugate vaccine?,"Answer: A toxoid uses an inactivated protein toxin (e.g., tetanus or diphtheria). A conjugate vaccine links a polysaccharide antigen to a protein carrier to recruit T-cell help (e.g., Hib, pneumococcal, meningococcal).
+
+Why it matters: Toxoids are inactivated protein toxins that induce neutralizing antibodies against toxin effects. Conjugate vaccines attach a bacterial polysaccharide to a protein carrier to enable T-cell help.
+
+PDF page(s): 15",Vaccines,15
+[Vaccines] What immune responses are generally produced by live-attenuated versus inactivated vaccines?,"Answer: Live-attenuated vaccines can replicate intracellularly and stimulate cellular and humoral immunity. Inactivated vaccines mainly stimulate humoral responses and often require boosters/adjuvants.
+
+Why it matters: Live organisms can enter host cells and generate MHC I presentation as well as antibody responses. Inactivated vaccines cannot replicate and mainly induce antibody responses, often needing boosters.
+
+PDF page(s): 24",Vaccines,24
+[Transplant] What is the defining mechanism of graft-versus-host disease?,"Answer: Donor T cells recognize recipient tissues as foreign and attack them; classically follows hematopoietic stem-cell transplantation and is cell-mediated (type IV).
+
+Why it matters: Graft-versus-host disease occurs when donor immunocompetent T cells attack recipient tissues they recognize as foreign. Skin, gut, and liver are common targets after marrow transplantation.
+
+PDF page(s): 38",Transplant,38
+[Transplant] How does hyperacute transplant rejection differ from acute and chronic rejection?,"Answer: Hyperacute rejection occurs within minutes to hours due to preformed recipient antibodies. Acute rejection occurs days to months and often involves T cells and/or antibodies; chronic rejection develops over months to years with vascular narrowing and fibrosis.
+
+Why it matters: Hyperacute rejection reflects preexisting antibodies and can begin during the transplant procedure. Acute and chronic processes develop later; T cells are important in acute cellular rejection, while chronic injury causes fibrosis and vascular narrowing.
+
+PDF page(s): 38",Transplant,38
+[Drugs] What is the target of rituximab?,"Answer: CD20 on B cells; it is used for B-cell malignancies and autoimmune conditions.
+
+Why it matters: Rituximab depletes CD20-positive B cells; it does not target mature plasma cells, which generally lack CD20. It is used in B-cell malignancies and several autoimmune diseases.
+
+PDF page(s): 18, 43",Drugs Markers,"18, 43"
+"[Markers] What do CD3, CD4, CD8, CD19/CD20, and CD16/CD56 identify?","Answer: CD3: T cells; CD4: helper T cells; CD8: cytotoxic T cells; CD19/CD20: B cells; CD16/CD56: NK cells.
+
+Why it matters: These surface markers identify broad lymphocyte lineages in flow cytometry. CD3/CD4/CD8 indicate T-cell populations; CD19/CD20 identify B cells; CD16/CD56 identify NK cells.
+
+PDF page(s): 17-18, 39-40",Markers,"17-18, 39-40"
+[Drugs] Which agents target TNF-alpha and what conditions may they treat?,"Answer: Infliximab and adalimumab are anti-TNF antibodies; etanercept is a soluble TNF-receptor fusion protein. These agents treat conditions such as rheumatoid arthritis and IBD.
+
+Why it matters: Infliximab and adalimumab neutralize TNF-alpha; etanercept acts as a soluble receptor decoy. Blocking TNF reduces inflammatory signaling in RA, IBD, and other immune-mediated disease.
+
+PDF page(s): 31, 43",Drugs,"31, 43"
+"[Drugs] What is the target of natalizumab, and what major risk is associated with it?","Answer: It blocks alpha-4 integrin and can be used for multiple sclerosis; it increases risk of progressive multifocal leukoencephalopathy.
+
+Why it matters: Natalizumab blocks alpha-4 integrin-dependent leukocyte trafficking into the CNS. Reduced CNS immune surveillance raises risk of JC-virus reactivation and PML.
+
+PDF page(s): 43",Drugs,43
+[Tcells] Which immune cells are central to control of intracellular Mycobacterium tuberculosis?,"Answer: Th1 CD4+ T cells activate infected macrophages via IFN-gamma; macrophages contain bacilli and can form granulomas.
+
+Why it matters: TB bacilli can persist within macrophages, so macrophages need Th1-derived IFN-gamma activation to improve killing. The interaction can organize macrophages into granulomas that contain infection.
+
+PDF page(s): 7, 10, 40-41",Tcells,"7, 10, 40-41"
